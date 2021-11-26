@@ -38,8 +38,8 @@ export default {
     name: 'login',
     data(){
         return{
-            usuarioo:'FORTEDEV',
-            password:'Apply2019@pass',
+            usuarioo:'',
+            password:'',
             alert:{
                 show: false,
                 mensaje:'',
